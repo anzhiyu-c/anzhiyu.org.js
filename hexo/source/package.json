@@ -1,0 +1,23 @@
+{
+  "name": "anzhiyu-blog-static",
+  "version": "1.0.3",
+  "description": "博客静态资源",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anzhiyu-c/anzhiyu-c.github.io.git"
+  },
+  "keywords": [
+    "anzhiyu",
+    "blog"
+  ],
+  "author": "anzhiyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anzhiyu-c/anzhiyu-c.github.io/issues"
+  },
+  "homepage": "https://github.com/anzhiyu-c/anzhiyu-c.github.io#readme"
+}

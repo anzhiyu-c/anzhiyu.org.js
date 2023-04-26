@@ -1,0 +1,190 @@
+- class_name: 世界各地夕阳与风景
+  path_name: /wordScenery
+  type: 2
+  description: 因为到不了世界各地，所以请网友们发来了各地的夕阳与风景🌇。
+  cover: https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635678ad29927.jpg
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  album_list:
+    - date: 2022/10/26 01:00:00
+      content: 湘潭的一角。
+      address: 湖南湘潭
+      from: 再吃一口就减肥
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/26/635880159f9e4.webp
+    - date: 2022-10-25
+      content: 洛阳暴雨后的天空。
+      address: 河南洛阳
+      from: 紫菜卷
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/26/635880166498e.webp
+    - date: 2022-10-25
+      content: 郴州莽山云海。
+      address: 湖南郴州
+      from: 艮兑
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/26/6358801467ec7.webp
+    - date: 2022-10-24
+      content: 湖南信息学院长椅下的夕阳。
+      address: 湖南长沙
+      from: 安知鱼
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635678ad2465a.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635678ad47205.webp
+    - date: 2023-04-03
+      content: 橘子洲头。
+      address: 湖南长沙
+      from: 安知鱼
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2023/04/03/642a3d0dad064.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2023/04/03/642a3d0dc41e2.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2023/04/03/642a3d0d90079.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2023/04/03/642a3d0dd1c13.jpeg
+    - date: 2023-04-03
+      content: 岳麓山。
+      address: 湖南长沙
+      from: 安知鱼
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2023/04/03/642a3d0dc32c8.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2023/04/03/642a3d0db1f07.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2023/04/03/642a3d0dd3441.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2023/04/03/642a3d0dc27a7.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2023/04/03/642a3d0dd3b13.jpeg
+
+- class_name: 我的日常
+  path_name: /dailyPhoto
+  type: 1
+  description: 这里存放的是有关我自己的一些沙雕生活与有趣的事情。
+  cover: https://img02.anzhiy.cn/adminuploads/1/2022/10/24/6356724909216.webp
+  album_list:
+    - date: 2022-10-24
+      content: 老妹的画
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/19/634f5764309ba.jpeg
+
+- class_name: 一眼万年
+  path_name: /thousand
+  type: 1
+  description: 亲爱的, 热爱的, 这是我的一眼万年。
+  cover: https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635670596d211.webp
+  album_list:
+    - date: 2023-01-14
+      content: 2023的期待😚
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2023/01/14/63c20f5242249.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2023/01/14/63c20f524218d.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2023/01/14/63c20f524712e.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2023/01/14/63c20f5252b93.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2023/01/14/63c20f5254772.webp
+    - date: 2022-10-01
+      content: biu~
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/19/634f5f31ad6f4.webp
+    - date: 2020-05-21
+      content: 耶✌️
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/08/21/630250b677f63.jpg
+    - date: 2020-05-21
+      content: 你好哇, 我受伤了, 呜呜呜🥹
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/08/21/630249e4a6555.jpg
+    - date: 2020-05-21
+      content: 比心♥️
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/08/21/630249e2df20f.jpg
+    - date: 2020-05-21
+      content: 上课真的好无聊哇～
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/08/21/630249e39e98b.jpg
+
+- class_name: 收藏的壁纸
+  path_name: /wallpaper
+  type: 1
+  description: 部分博主很爱的壁纸。
+  cover: https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e7c66fd.webp
+  album_list:
+    - date: 2022-10-24
+      content: 想吃小熊饼干。
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e7a3e4f.webp
+    - date: 2022-10-24
+      content: 是油画啦～
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672ea08126.webp
+    - date: 2022-10-24
+      content: 唔, 喝果汁嘛?
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e8973a7.webp
+    - date: 2022-10-24
+      content: 可以吗？
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e55341f.webp
+    - date: 2022-10-24
+      content: Niya
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672ea1eeeb.webp
+    - date: 2022-10-24
+      content: 睡觉好安逸
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672ea42ebf.webp
+    - date: 2022-10-24
+      content: 水彩画家
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672eac6f60.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e9d10ba.webp
+    - date: 2022-10-24
+      content: 雨🌧️
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672eac9376.webp
+    - date: 2022-10-24
+      content: 绚丽多彩的烟花🎆
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672ed14968.webp
+    - date: 2022-10-24
+      content: 极简
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e1b3435.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e1bbfdb.webp
+    - date: 2022-10-24
+      content: 宫崎骏温柔风
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e703c62.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e732e27.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e740046.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e22b34b.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e7c665f.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e7c66fd.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e7cc7be.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e7d5159.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e8235b1.webp
+    - date: 2022-10-24
+      content: 慵懒的猫🐱
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e31ae07.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e31fe94.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e225d5b.webp
+    - date: 2022-10-24
+      content: 欢迎光临👏
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e32aabd.webp
+    - date: 2022-10-24
+      content: 蓝色的门
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635626c2909b4.webp
+    - date: 2022-10-24
+      content: 和泉纱雾
+      image:
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e313ae8.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e345ef0.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e3e795d.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e5b20d4.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e5d1c5b.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e65ce15.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e788423.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e9127c9.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e93b2fe.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672e9c8072.webp
+        - https://img02.anzhiy.cn/adminuploads/1/2022/10/24/635672ea50b7c.webp

@@ -1,18 +1,54 @@
-## Hexo简介
+<div align="right">
+  语言:
+  中文
+</div>
 
-Hexo最初由Tommy Chen 2012年创建和维护。从那时起，它帮助成千上万的人建立了他们梦想中的网站/博客。
+预览: 👍 [AnZhiYu](https://anzhiy.cn/)  ||  🤞 [AnZhiYu](https://index.anzhiy.cn/)
 
-[了解更多](https://hexo.io/zh-cn/docs/index.html)
+文档: 📖 [anzhiyu Docs](https://anzhiy.cn/posts/61e4.html)
 
-## 当前主题
+一款基于[hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly)修改的主題
 
-本空间使用[安知鱼主题](https://github.com/anzhiyu-c/hexo-theme-anzhiyu)
+# hexo-theme-anzhiyu
 
+![](https://img02.anzhiy.cn/adminuploads/1/2023/04/12/64367c8fdcc7f.webp)
 
-## 开箱即用
+## 💻 安裝
 
-开箱即用，极致的体验。
+### Git 安裝
 
-## 主题风格
+在博客根目录里安装最新版【推荐】
 
-简洁而不简单的卡片，带来完美的体验，让你专注于写作。
+```powershell
+git clone -b main https://github.com/anzhiyu-c/hexo-theme-anzhiyu.git themes/anzhiyu
+```
+
+## ⚙ 应用主题
+
+修改 hexo 配置文件`_config.yml`，把主题改为`anzhiyu`
+
+```
+theme: anzhiyu
+```
+
+> 如果你没有 pug 以及 stylus 的渲染器，请下载安装： `npm install hexo-renderer-pug hexo-renderer-stylus --save`
+
+### 主题设计
+
+[@张洪 Heo](https://github.com/zhheo)
+
+## 更好的配置
+
+- macos/linux
+  在博客根目录运行
+
+```bash
+cp -rf ./themes/anzhiyu/_config.yml ./_config.anzhiyu.yml
+```
+
+- windows
+  复制`/themes/anzhiyu/_config.yml`此文件到 hexo 根目录，并重命名为`_config.anzhiyu.yml`
+
+## 仓库统计
+
+![仓库统计](https://repobeats.axiom.co/api/embed/60fcf455cd02123aebe6249deabf8d48e3debcae.svg "Repobeats analytics image")

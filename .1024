@@ -1,2 +1,7 @@
-components: ["filetree", "shell", "console"]
-run_command: "node main.js"
+components:
+  - filetree
+  - shell
+  - console
+run_command: cd hexo && hexo s
+compile_command: cd hexo && hexo cl && hexo g
+gui: false
